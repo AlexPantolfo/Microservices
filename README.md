@@ -4,10 +4,6 @@ Software baseado em microsserviços feito no Santander Bootcamp | Fullstack Deve
 
 
 
-## Descrição 
-
-##### 	Neste projeto fomos desafiados a criar uma API Rest para controle de ponto e acesso dos usúarios de uma empresa, usamos o Hibernate para o mapeamento e persistência de dados, o Spring Boot para fazer as injeções de dependencias,  e Lombok para compilçao de getters e stters, entre outros metodos, alem de documentar toda a API com Swagget
-
 
 ## Status
 
